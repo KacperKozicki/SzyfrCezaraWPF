@@ -23,6 +23,9 @@ To repozytorium zawiera aplikację WPF do szyfrowania i deszyfrowania tekstu za 
 - `MainWindow.xaml`: Definiuje układ interfejsu użytkownika.
 - `MainWindow.xaml.cs`: Zawiera logikę szyfrowania, deszyfrowania i interakcji z interfejsem użytkownika.
 
+## Licencja
+Ten projekt jest dostępny na licencji [MIT License](LICENSE).
+
 ## Wymagania
 - .NET Framework
 - System operacyjny Windows
